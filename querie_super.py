@@ -28,7 +28,7 @@ CREATE TABLE Producto (
 
 CREATE TABLE Fechas_orden(
 	date_key int,
-	full_date datetime,
+	Full_Date_Order date,
     day_of_week int,
     day_num_in_month int,
     day_name varchar(50),
